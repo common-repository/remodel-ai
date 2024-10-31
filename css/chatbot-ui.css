@@ -1,0 +1,13 @@
+/* CSS styles for the chatbot UI */
+.chatbot-container {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 300px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  background-color: blue;
+  z-index: 99999999999;
+}
+
+/* ... Add your custom CSS styles for the chatbot UI ... */

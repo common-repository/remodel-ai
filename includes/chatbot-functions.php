@@ -1,0 +1,3 @@
+<?php
+// PHP functions for chatbot functionality
+// ... Add your custom PHP functions for the chatbot ...
